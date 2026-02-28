@@ -60,9 +60,6 @@ Dominos-Online-Ordering-System/
 │   ├── thread/
 │   │   └── OrderProcessingThread.java
 │   │
-│   ├── util/
-│   │   └── Constants.java
-│   │
 │   └── Main.java
 │
 ├── screenshots/
@@ -74,7 +71,7 @@ Dominos-Online-Ordering-System/
 │
 ├── README.md
 ├── .gitignore
-└── LICENSE (optional)
+└── LICENSE
 
 ## 💾 Data Storage
 - User and order data are stored in text (.txt) files.
@@ -89,6 +86,32 @@ Dominos-Online-Ordering-System/
    javac --module-path "path_to_javafx_lib" --add-modules javafx.controls *.java
 5. Run:
    java --module-path "path_to_javafx_lib" --add-modules javafx.controls Main
+
+🎬 Project Workflow
+
+1.User registers or logs in to the system
+2.User browses available menu items
+3.Items are added to the cart
+4.Order is placed by the user
+5.Order is processed using multi-threading
+6.Order status is displayed (Processing → Delivered)
+
+✨ Advanced Features
+
+Multi-threaded order processing system
+Custom exception handling implementation
+File-based persistent data storage
+Modular layered architecture design
+Object-Oriented Programming principles
+Command-line compilation and execution support
+
+💡 Why This Project?
+
+Helps in understanding JavaFX GUI development
+Demonstrates file handling concepts
+Implements multithreading concepts
+Shows custom exception handling
+Follows structured software design
 
 ## 🎯 Learning Outcomes
 - JavaFX GUI Development
