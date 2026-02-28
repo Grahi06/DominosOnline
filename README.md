@@ -89,21 +89,21 @@ Dominos-Online-Ordering-System/
 
 🎬 Project Workflow
 
-1.User registers or logs in to the system
-2.User browses available menu items
-3.Items are added to the cart
-4.Order is placed by the user
-5.Order is processed using multi-threading
-6.Order status is displayed (Processing → Delivered)
+--User registers or logs in to the system
+--User browses available menu items
+--Items are added to the cart
+--Order is placed by the user
+--Order is processed using multi-threading
+--Order status is displayed (Processing → Delivered)
 
 ✨ Advanced Features
 
-Multi-threaded order processing system
-Custom exception handling implementation
-File-based persistent data storage
-Modular layered architecture design
-Object-Oriented Programming principles
-Command-line compilation and execution support
+-Multi-threaded order processing system
+-Custom exception handling implementation
+-File-based persistent data storage
+--Modular layered architecture design
+-Object-Oriented Programming principles
+-Command-line compilation and execution support
 
 💡 Why This Project?
 
