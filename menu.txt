@@ -1,0 +1,21 @@
+Pizza,1,Margherita Pizza,120,Medium
+Pizza,2,Cheese Burst Pizza,180,Large
+Pizza,3,Paneer Pizza,150,Medium
+Pizza,4,Veg Supreme Pizza,140,Medium
+Pizza,5,Farmhouse Pizza,200,Large
+Pizza,6,Pepperoni Pizza,220,Medium
+Pizza,7,Mexican Pizza,160,Large
+Pizza,8,Onion Pizza,130,Medium
+Pizza,9,Capsicum Pizza,140,Large
+Pizza,10,Tomato Pizza,110,Medium
+
+Drink,104,Fanta,75
+Drink,105,Mountain Dew,85
+Drink,106,7Up,70
+Drink,107,Limca,65
+Drink,108,Thums Up,80
+Drink,109,Cold Coffee,120
+Drink,110,Chocolate Milkshake,140
+Drink,111,Strawberry Shake,130
+Drink,112,Orange Juice,90
+Drink,113,Mango Juice,100
